@@ -100,6 +100,7 @@
 - 모델 서빙 프레임워크로 모델 서빙하기 (Nvidia Triton)
 </details>
 
+
 ---
 
 ## 🎯 Projects
@@ -187,32 +188,27 @@
 ```
 sprint-ai07/
 │  
-├── Pre-Course/                     # 파이썬 기초 과정
-│   └── Python-Basics/
-│  
-├── Part1-Python-ML/                # 데이터 분석 & 머신러닝 기초
-│  
-├── Part2-Deep-Learning-CV/         # 딥러닝 기초 & 컴퓨터 비전
-│   
-├── Part3-NLP-LLM/                  # 자연어처리 & 대규모 언어모델
-│   
-├── Part4-Model-Deployment/         # 모델 최적화 & 배포
+├── 미션/ 
+│   └── 스프린트미션 #1 ~ #18
+|         ⁝
+|
+├── 실습/ 
+|   ├── Pre-Course-Python_Basics    # 파이썬 기초 과정
+|   |     ⁝
+|   ├── Part1-Python-ML             # 데이터 분석 & 머신러닝 기초
+|   |     ⁝
+|   ├── Part2-Deep-Learning-CV      # 딥러닝 기초 & 컴퓨터 비전
+|   |     ⁝
+|   ├── Part3-NLP-LLM               # 자연어처리 & 대규모 언어모델
+|   |     ⁝
+│   └── Part4-Model-Deployment      # 모델 최적화 & 배포
+|         ⁝
 │   
 └── Projects/                       # 팀 프로젝트 모음 (5인 1팀)
     ├── 01-Basic-Image-Recognition/      # 초급: 헬스케어 이미지 인식
     ├── 02-Intermediate-NLP-RAG/         # 중급: RFP 요약 서비스
     └── 03-Advanced-Generative-AI/       # 고급: 광고 컨텐츠 생성
 ```
-
----
-
-## 📊 Learning Stats
-
-- 📅 **학습 기간**: 2025.11 ~ 2026.06 (31주)
-- ⏰ **총 학습 시간**: 1,500+ hours
-- 📝 **현재 진행**: Week X / 31
-- 🎯 **완료 프로젝트**: 0 / 3
-- 👥 **팀 프로젝트**: 5인 1팀 협업 경험
 
 ---
 
@@ -238,6 +234,15 @@ sprint-ai07/
 - **Weekly Paper #16**: 모델 배포 (Streamlit, FastAPI, Nvidia Triton)
 - **Weekly Paper #17**: 
 
+---
+
+## 📊 Learning Stats
+
+- 📅 **학습 기간**: 2025.11 ~ 2026.06 (31주)
+- ⏰ **총 학습 시간**: 1,500+ hours
+- 📝 **현재 진행**: Week 9 / 31
+- 🎯 **완료 프로젝트**: 0 / 3
+- 👥 **팀 프로젝트**: 5인 1팀 협업 경험
 
 ---
 
