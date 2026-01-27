@@ -186,7 +186,7 @@
 ## 📂 Repository Structure
 
 ```
-sprint-ai07/
+sprint_ai07/
 │  
 ├── 미션/ 
 │   └── 스프린트미션 #1 ~ #18
@@ -204,8 +204,8 @@ sprint-ai07/
 │   └── Part4-Model-Deployment      # 모델 최적화 & 배포
 |         ⁝
 │   
-└── Projects/                       # 팀 프로젝트 모음 (5인 1팀)
-    ├── 01-Basic-Image-Recognition/      # 초급: 헬스케어 이미지 인식
+└── Projects/                       # 팀 프로젝트 모음
+    ├── 01-Basic-Image-Recognition/      # 초급: 헬스케어 이미지 인식 (5인 1팀 - 팀장)
     ├── 02-Intermediate-NLP-RAG/         # 중급: RFP 요약 서비스
     └── 03-Advanced-Generative-AI/       # 고급: 광고 컨텐츠 생성
 ```
@@ -223,8 +223,8 @@ sprint-ai07/
 - **Weekly Paper #5**: 딥러닝 프레임 워크 - PyTorch & TenserFlow / Tensor & Numpy Array
 - **Weekly Paper #6**: 딥러닝 네트워크 구조 - CNN / Auto Encoder
 - **Weekly Paper #7**: 컴퓨터 비전 - 리사이징 & 정규화 / 데이터 증강 / 전이 학습
-- **Weekly Paper #8**: 
-- **Weekly Paper #9**: 
+- **Weekly Paper #8**: 이미지 분류 - YOLO / mAP
+- **Weekly Paper #9**: 객체 인식 / 이미지 생성 - Semetic Segmentation / FCN / GAN / Diffusion Model
 - **Weekly Paper #10**: 자연어 처리 기초 - 텍스트 임베딩
 - **Weekly Paper #11**: 자연어 처리- (BERT, GPT)
 - **Weekly Paper #12**: 대규모 언어모델 (LLM, PEFT, RAG)
