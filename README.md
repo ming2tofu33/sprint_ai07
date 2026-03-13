@@ -7,7 +7,13 @@
 **Status**: In Progress 🚀  
 **Track**: AI Engineer
 
----
+## Curriculum-Project
+
+| **Phase** | **Core Tech Stack** | **Related Project** | **Status** |
+| --- | --- | --- | --- |
+| **CV** | `PyTorch`, `OpenCV` | [Healthcare Image Model](https://github.com/ming2tofu33/pjt-sprint_ai07_healthcare.git) | 🏗️ |
+| **NLP** | `LLM`, `RAG`, `LangChain` | RFP Summary Service | 🗓️ |
+| **Ops** | `Docker`, `FastAPI`, `Triton` | GenAI Ad Service | 🗓️ |
 
 ## 📚 Learning Roadmap
 
@@ -100,6 +106,12 @@
 - 모델 서빙 프레임워크로 모델 서빙하기 (Nvidia Triton)
 </details>
 
+<details>
+<summary>View Full Curriculum (Click)</summary>
+
+- part 1
+- part 2
+</details>
 
 ---
 
@@ -240,7 +252,7 @@ sprint_ai07/
 
 - 📅 **학습 기간**: 2025.11 ~ 2026.06 (31주)
 - ⏰ **총 학습 시간**: 1,500+ hours
-- 📝 **현재 진행**: Week 9 / 31
+- 📝 **현재 진행**: Week 12 / 31
 - 🎯 **완료 프로젝트**: 0 / 3
 - 👥 **팀 프로젝트**: 5인 1팀 협업 경험
 
